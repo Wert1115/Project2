@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+}
+
+h1 img{
+    width :50px;
+}
+
+p {
+    text-align: justify;
+}
+
+h2{
+    background-color: ghostwhite;
+    text-align: center;
+    border: 2px solid grey;
+}
+
+main img{
+    width:200px;
+    border: 2px dotted firebrick;
+}
+
+main{
+    background-color: gainsboro;
+}
+
+tr{
+border: 5px solid green;
+}
+
+td{
+   border:1px solid green;
+   padding: 10px;
+}
+
+table{
+    border:5px solid green;
+    border-collapse: collapse;
+
+}
+
+nav{
+background-color: floralwhite;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+nav a{
+      text-decoration: none;
+    border: 1px solid #c2c2c2;
+    background-color: #d4d0cc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+    color: #b00d0d;
+}
+
+ Footer{
+    background-color: rgb(163, 170, 170);
+    margin: 15px;
+    padding: 5px;
+    margin-left: 0px;
+
+ }
